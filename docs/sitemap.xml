@@ -8,63 +8,63 @@
   </url>
 
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post1/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post1.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post2/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post2.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post3/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post3.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post4/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post4.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post5/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post5.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post6/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post6.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post7/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/blog/posts/post7.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/privacy/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/privacy.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://axelbase.github.io/markdown-meta-tag-tester/terms/</loc>
+    <loc>https://axelbase.github.io/markdown-meta-tag-tester/terms.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
